@@ -1,0 +1,1 @@
+helm install my-argo-cd argo/argo-cd --version 8.3.7 -f values.yaml
